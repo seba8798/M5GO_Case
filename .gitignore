@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+
+# CMake
+.pio/
+.vscode/
+.idea/
+*.pio
+*.log
